@@ -1,5 +1,6 @@
 # GoBasics
-Hexagonal architecture(from 2005)-Ports & Adaptors
+Hexagonal architecture(from 2005)-Ports & Adaptors.
+
 User-Side(LeftSide)(Application side) ------>Bussines-Logic(Center)(isolates from both sides)------>Server-Side(RightSide)(essential infra structure/external)
             
 <img width="400" alt="Screenshot 2024-10-22 at 10 43 25 AM" src="https://github.com/user-attachments/assets/2d07bdb9-a964-4825-b543-39a979b8c235">
